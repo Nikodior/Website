@@ -29,13 +29,15 @@ body {
   letter-spacing: 3px;
   font-weight: 100;
 }
-.box p {
+/*.box p {
   text-align: justify;
 }
+
 ul {
   margin: o;
   padding: 0;
 }
+*/
 .box li {
   display: inline-block;
   margin: 6px;
